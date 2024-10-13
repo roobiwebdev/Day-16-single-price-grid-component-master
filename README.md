@@ -1,4 +1,4 @@
-Day-15: 3-column preview card components
+Day-17-Fylo-data-storage-component
 
 I've just completed another front-end coding challenge
 
